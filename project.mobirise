@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living In Minutia",
-    "currentPage": "Living In Minutia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -56,7 +56,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "canonical-url": false
   },
   "pages": {
@@ -1824,7 +1824,7 @@
         }
       ]
     },
-    "Living In Minutia.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Living In Minutia",
